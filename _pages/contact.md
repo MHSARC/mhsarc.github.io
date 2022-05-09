@@ -27,4 +27,4 @@ Oregon City OR 97045-8253
 503-793-6345
 
 ## Facebook
-[Mt.Hood SAR Council](https://www.facebook.com/MtHood-SAR-Council-152500824868647/)
+<a href="https://www.facebook.com/MtHood-SAR-Council-152500824868647/"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i> Mt. Hood SAR Council</a>
