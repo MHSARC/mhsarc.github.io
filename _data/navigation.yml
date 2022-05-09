@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Members"
-    url: members/
+    url: /members/
   - title: "Board and Officers"
-    url: board-and-officers/    
+    url: /board-and-officers/    
   - title: "Contact us"
-    url: contact/
+    url: /contact/
   - title: "Donate"
     url: #
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "News"
+    url: /news/
