@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "News"
+    url: /news/
   - title: "Members"
     url: /members/
   - title: "Board and Officers"
@@ -8,5 +10,3 @@ main:
     url: /contact/
   - title: "Donate"
     url: #
-  - title: "News"
-    url: /news/
