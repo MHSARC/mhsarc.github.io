@@ -29,11 +29,11 @@ Portland Mountain Rescue
 **Reed Gillette**<br>
 Pacific Northwest Search & Rescue 
 
-### Secretary
+## Secretary
 Mike Walsh
 
-### Treasurer
+## Treasurer
 Phil Brunson
 
-### Fundraising/Development
+## Fundraising/Development
 Sherri Magdlen
