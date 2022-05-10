@@ -77,34 +77,20 @@ entries_layout: grid
 <h2>Sponsors</h2>
 
 <div class="feature__wrapper">
+  {% for sponsor in site.data.sponsors %}
     <div class="feature__item">
-        <div class="archive__item">
-            <div class="archive__item-teaser">
-              <img src="{{ 'assets/images/sponsor-cfcu.jpg' | relative_url }}" alt=""/>
-            </div>
-  
-          <div class="archive__item-body">
-              <h3 class="archive__item-title">Clackamas Federal Credit Union</h3>
-              <div class="archive__item-excerpt">
-              </div>
-          </div>
-        </div>
+      <div class="archive__item">
+        <div class="archive__item-teaser">
+          <a href="{{ sponsor.link }}"><img src="{{ sponsor.image }}" alt="{{ sponsor.name }}"/></a>
+        </div>   
+        <div class="archive__item-body">
+          <h3 class="archive__item-title">{{ sponsor.name | smartify }}</h3>
+          <div class="archive__item-excerpt"></div>
+        </div>     
       </div>
-      <div class="feature__item">
-        <div class="archive__item">
-            <div class="archive__item-teaser">
-              <img src="{{ 'assets/images/sponsor-bobsredmill.jpg' | relative_url }}" alt=""/>
-            </div>
-  
-          <div class="archive__item-body">
-              <h3 class="archive__item-title">Bob’s Red Mill</h3>
-              <div class="archive__item-excerpt">
-              </div>
-          </div>
-        </div>
-      </div>  
-  </div>
-</section>  
+    </div> 
+  {% endfor %} 
+</div>
 
 {% comment %}{% include feature_row id="feature_row2" type="left" %}{% endcomment %}
 
