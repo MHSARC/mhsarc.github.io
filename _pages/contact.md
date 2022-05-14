@@ -13,7 +13,7 @@ intro:
 ---
 
 **We do not respond to direct requests for search and rescue assistance.** Call 911 if you have an emergency.
-{: .notice--danger}
+{: .notice--warning}
 
 ## Address
 Mt. Hood SAR Council<br>
