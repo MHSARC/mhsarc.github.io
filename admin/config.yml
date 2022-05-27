@@ -1,0 +1,85 @@
+# config.yml
+
+backend:
+#  name: git-gateway
+  name: github
+  repo:  rentry/mhsarc
+ # Path to your GitHub repository
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: 'assets/images'
+collections:
+  - name: 'home'
+    label: 'Homepage'
+    editor:
+      preview: false
+    files:
+      - label: 'Homepage'
+        name: 'home'
+        file: 'index.html'
+        fields:
+          - {label: 'Excerpt', name: 'excerpt', widget: 'markdown'}        
+          - label: 'Intro'
+            name: 'intro'
+            widget: 'list'
+            fields:
+              - { label: Intro, name: excerpt, widget: markdown }         
+          - label: 'Feature 1'
+            name: 'feature_row'
+            widget: 'list'
+            fields:
+              - { label: Title, name: title, widget: string }            
+              - { label: Image, name: image_path, widget: string }
+              - { label: Image alt, name: alt, widget: string }              
+              - { label: Excerpt, name: excerpt, widget: markdown }
+  - name: '_pages'
+    label: 'Pages'
+    label_singular: 'page'
+    nested: { depth: 4 }
+    folder: '_pages/'
+    create: true
+    fields: 
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Body', name: 'body', widget: 'markdown'}               
+  - name: 'nav'
+    label: 'Navigation'
+    editor:
+      preview: false
+    files:
+      - label: 'Main navigation'
+        name: 'navigation'
+        file: '_data/navigation.yml'
+        fields:
+          - label: 'Navigation items'
+            name: 'main'
+            widget: 'list'
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: URL, name: url, widget: string }
+  - name: 'sponsor-list'
+    label: 'Sponsors'
+    editor:
+      preview: false
+    files:
+      - label: 'Sponsors'
+        name: 'sponsors'
+        file: '_data/sponsors.yml'
+        fields:
+          - label: 'Sponsor names'
+            name: 'sponsor'
+            widget: 'list'
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Image, name: image, widget: string }              
+              - { label: Link, name: link, widget: string }              
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }            
