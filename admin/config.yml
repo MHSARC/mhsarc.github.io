@@ -82,4 +82,14 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }            
+      - label: "Header"
+        name: 'header'
+        widget: 'object'
+        fields:
+          - label: 'Teaser image'
+            name: 'teaser'
+            widget: 'image'
+          - label: 'Image description'
+            name: 'image_description'
+            widget: 'string'  
+      - { label: 'Body', name: 'body', widget: 'markdown' }
