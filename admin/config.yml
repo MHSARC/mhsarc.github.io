@@ -3,9 +3,10 @@
 backend:
 #  name: git-gateway
   name: github
-  repo:  rentry/mhsarc
+  repo: rentry/mhsarc
  # Path to your GitHub repository
   branch: main # Branch to update (optional; defaults to master)
+  auth_endpoint: external/auth/github  
 media_folder: 'assets/images'
 collections:
   - name: 'home'
