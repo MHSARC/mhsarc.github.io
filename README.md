@@ -26,4 +26,4 @@ Site content is mostly contained in three folders:
 ##### Homepage content
 - `index.html` - homepage
 
-Most of the content on the homepage is in the front matter of `index.html`. Front matter is separated by three hyphens and the top of the file and three at the end.
+Most of the content on the homepage is in the front matter of `index.html`. Front matter is separated by three hyphens and the top of the file and three at the end of the front matter.
