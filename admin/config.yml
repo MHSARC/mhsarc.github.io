@@ -4,7 +4,8 @@ backend:
 #  name: git-gateway
   name: github
   repo: MHSARC/mhsarc
-  site_domain: mhsarc.github.io/mhsarc/
+  auth_endpoint: auth
+  base_url: https://api.netlify.com
  # Path to your GitHub repository
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'assets/images'
