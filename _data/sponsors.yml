@@ -1,8 +1,8 @@
 sponsor:
   - name: Clackamas Federal Credit Union
-    image: /assets/images/sponsor-cfcu.jpg
+    image: assets/images/sponsor-cfcu.jpg
     link: https://www.clackamasfcu.org/
 
   - name: Bob's Red Mill
-    image: /assets/images/sponsor-bobsredmill.jpg
+    image: assets/images/sponsor-bobsredmill.jpg
     link: https://www.bobsredmill.com/
