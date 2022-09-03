@@ -1,7 +1,7 @@
 ---
-title: Board and Officers
+title: Officers
 layout: splash
-permalink: board-and-officers/
+permalink: officers/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
