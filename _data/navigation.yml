@@ -4,8 +4,8 @@ main:
     url: /news/
   - title: "Members"
     url: /members/
-  - title: "Board and Officers"
-    url: /board-and-officers/    
+  - title: "Officers"
+    url: /officers/    
   - title: "Contact us"
     url: /contact/
   - title: "Donate"
