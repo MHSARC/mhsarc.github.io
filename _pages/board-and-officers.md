@@ -12,25 +12,16 @@ intro:
   - excerpt:
 ---
 
-## 2020 Board members
+## 2022 Officers
 
-**Russ Gubele - Acting President**<br>
+**Russ Gubele - President**<br>
 Mountain Wave Emergency Communications
 
-**Tom Rousseau**<br>
-Crag Rats
-
-**Tony Morris**<br>
-Washington County Sheriff's Office
-
-**Mike Walsh**<br>
-Portland Mountain Rescue
-
-**Reed Gillette**<br>
-Pacific Northwest Search & Rescue 
+**Dave Prouty - Vice President**<br>
+Clackamas County Search and Rescue
 
 ## Secretary
-Mike Walsh
+Tricia Hewlett
 
 ## Treasurer
 Phil Brunson
