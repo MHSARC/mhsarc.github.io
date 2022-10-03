@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "News"
-    url: /news/
   - title: "Members"
     url: /members/
   - title: "Officers"
