@@ -3,7 +3,7 @@
 backend:
 #  name: git-gateway
   name: github
-  repo: MHSARC/mhsarc
+  repo: MHSARC/mhsarc.github.io
 #  auth_endpoint: external/auth/github
   base_url: https://api.netlify.com
  # Path to your GitHub repository
