@@ -10,7 +10,7 @@ backend:
   api_root: https://api.github.com
  # Path to your GitHub repository
   branch: main # Branch to update (optional; defaults to master)
-  site_domain: gilded-smakager-3d4ab7
+  site_domain: www.mthoodsarcouncil.org
 media_folder: 'assets/images'
 collections:
   - name: 'home'
