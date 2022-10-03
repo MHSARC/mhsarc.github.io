@@ -4,8 +4,8 @@ backend:
 #  name: git-gateway
   name: github
   repo: MHSARC/mhsarc
-  auth_endpoint: external/auth/github
-#  base_url: https://api.netlify.com
+#  auth_endpoint: external/auth/github
+  base_url: https://api.netlify.com
  # Path to your GitHub repository
   branch: main # Branch to update (optional; defaults to master)
   site_domain: gilded-smakager-3d4ab7
