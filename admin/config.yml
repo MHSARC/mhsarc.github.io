@@ -8,6 +8,7 @@ backend:
 #  base_url: https://api.netlify.com
  # Path to your GitHub repository
   branch: main # Branch to update (optional; defaults to master)
+  site_domain: gilded-smakager-3d4ab7
 media_folder: 'assets/images'
 collections:
   - name: 'home'
