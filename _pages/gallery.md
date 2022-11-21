@@ -31,4 +31,4 @@ gallery:
 
 ## Photo gallery
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is a work-in-progress photo gallery. More to come." %}
