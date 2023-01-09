@@ -5,7 +5,7 @@ permalink: photos/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/page-sar-5.jpg
+  overlay_image: /assets/images/sar-photos.jpg
   caption:
 excerpt:
 intro: 
