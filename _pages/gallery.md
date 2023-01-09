@@ -10,6 +10,31 @@ header:
 excerpt:
 intro: 
   - excerpt:
+csar:
+  - url: /assets/images/gallery/csar-1.jpg
+    image_path: /assets/images/gallery/csar-1-th.jpg
+    alt: "Multiple search and rescue personnel guide a litter with a rescue subject along a narrow trail on an exposed hillside"
+    title: "Clackamas County"
+  - url: /assets/images/gallery/csar-2.jpg
+    image_path: /assets/images/gallery/csar-2-th.jpg
+    alt: "Rescuers in helmets gather around a search subject at night with headlamps lit and snow on the ground"
+    title: "Clackamas County"
+  - url: /assets/images/gallery/csar-3.jpg
+    image_path: /assets/images/gallery/csar-3-th.jpg
+    alt: "A green side-by-side with tracks moves along the snow"
+    title: "Clackamas County"
+  - url: /assets/images/gallery/csar-4.jpg
+    image_path: /assets/images/gallery/csar-4-th.jpg
+    alt: "A rescuer in an orange shirt and helmet suspends from a rope with a smile on their face"
+    title: "Clackamas County"
+  - url: /assets/images/gallery/csar-5.jpg
+    image_path: /assets/images/gallery/csar-5-th.jpg
+    alt: "Two search dogs lie along the bank of a stream"
+    title: "Clackamas County"
+  - url: /assets/images/gallery/csar-6.jpg
+    image_path: /assets/images/gallery/csar-6-th.jpg
+    alt: "Two searchers in helmets on ATVs in a parking lot with vehicles in the background"
+    title: "Clackamas County"    
 mountainwave:
   - url: /assets/images/gallery/mw-2.jpg
     image_path: /assets/images/gallery/mw-2-th.jpg
@@ -26,7 +51,11 @@ mountainwave:
   - url: /assets/images/gallery/mw-1.jpg
     image_path: /assets/images/gallery/mw-1-th.jpg
     alt: "A large truck with Mountain Wave Search and Rescue on the side with a red stripe, a mountain in the distance, and a large antenna extending from the truck"
-    title: "Mountain Wave"    
+    title: "Mountain Wave"
+  - url: /assets/images/gallery/mw-5.jpg
+    image_path: /assets/images/gallery/mw-5-th.jpg
+    alt: "Multiple search and rescue vehicles in the snow with snow covered trees and a person walking in the middle of the snowy road"
+    title: "Mountain Wave"     
 pmr:
   - url: /assets/images/gallery/pmr-1.jpg
     image_path: /assets/images/gallery/pmr-1-th.jpg
@@ -71,7 +100,11 @@ multco:
     title: "Multnomah County"
 ---
 
-## Team photos
+## Member team photos
+
+### Clackamas County
+
+{% include gallery id="csar" caption="" %}
 
 ### Mountain Wave
 
