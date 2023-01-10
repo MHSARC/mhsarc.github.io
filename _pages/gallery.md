@@ -13,7 +13,7 @@ intro:
 csar:
   - url: /assets/images/gallery/csar-1.jpg
     image_path: /assets/images/gallery/csar-1-th.jpg
-    alt: "Multiple search and rescue personnel guide a litter with a rescue subject along a narrow trail on an exposed hillside"
+    alt: "Multiple search and rescue personnel guide a sked in the snow among trees"
     title: "Clackamas County Search and Rescue (CSAR)"
   - url: /assets/images/gallery/csar-2.jpg
     image_path: /assets/images/gallery/csar-2-th.jpg
@@ -21,7 +21,7 @@ csar:
     title: "Clackamas County Search and Rescue (CSAR)"
   - url: /assets/images/gallery/csar-3.jpg
     image_path: /assets/images/gallery/csar-3-th.jpg
-    alt: "A green side-by-side with tracks moves along the snow"
+    alt: "Five search and rescuers hike and guide a litter along a trail on a mountainside with a snow-capped mountain in the background"
     title: "Clackamas County Search and Rescue (CSAR)"
   - url: /assets/images/gallery/csar-4.jpg
     image_path: /assets/images/gallery/csar-4-th.jpg
