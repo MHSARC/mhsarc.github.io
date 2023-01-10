@@ -4,6 +4,8 @@ main:
     url: /members/
   - title: "Officers"
     url: /officers/    
+  - title: "Photos"
+    url: /photos/
   - title: "Contact us"
     url: /contact/
   - title: "Donate"
