@@ -15,7 +15,7 @@ intro:
 ## 2023 Officers
 
 **Scott Hussey - President**<br>
-Clackamas County Search and Rescue
+Portland Mountain Rescue
 
 **Russ Gubele - Vice President**<br>
 Mountain Wave Emergency Communications
