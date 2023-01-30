@@ -12,16 +12,16 @@ intro:
   - excerpt:
 ---
 
-## 2022 Officers
+## 2023 Officers
 
-**Russ Gubele - President**<br>
-Mountain Wave Emergency Communications
-
-**Dave Prouty - Vice President**<br>
+**Scott Hussey - President**<br>
 Clackamas County Search and Rescue
 
+**Russ Gubele - Vice President**<br>
+Mountain Wave Emergency Communications
+
 ## Secretary
-Tricia Hewlett
+TBD
 
 ## Treasurer
 Phil Brunson
