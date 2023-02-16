@@ -21,11 +21,12 @@ Portland Mountain Rescue
 Pacific Northwest Search and Rescue
 
 ## Secretary
-Josh Townsley<br>
+**Josh Townsley**<br>
 Clackamas County Search and Rescue
 
 ## Treasurer
-Phil Brunson
+**Phil Brunson**<br>
+Mountain Wave SAR
 
 ## Fundraising/Development
 TBD
