@@ -17,14 +17,15 @@ intro:
 **Scott Hussey - President**<br>
 Portland Mountain Rescue
 
-**Russ Gubele - Vice President**<br>
-Mountain Wave Emergency Communications
+**MJ Scheer - Vice President**<br>
+Pacific Northwest Search and Rescue
 
 ## Secretary
-TBD
+Josh Townsley<br>
+Clackamas County Search and Rescue
 
 ## Treasurer
 Phil Brunson
 
 ## Fundraising/Development
-Sherri Magdlen
+TBD
