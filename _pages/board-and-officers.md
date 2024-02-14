@@ -17,12 +17,12 @@ intro:
 **Scott Hussey - President**<br>
 Portland Mountain Rescue
 
-**MJ Scheer - Vice President**<br>
-Pacific Northwest Search and Rescue
+**Josh Townsley - Vice President**<br>
+Clackamas County Search and Rescue
 
 ## Secretary
-**Josh Townsley**<br>
-Clackamas County Search and Rescue
+**MJ Scheer - Vice President**<br>
+Pacific Northwest Search and Rescue
 
 ## Treasurer
 **Phil Brunson**<br>
