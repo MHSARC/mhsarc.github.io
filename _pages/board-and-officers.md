@@ -21,7 +21,7 @@ Portland Mountain Rescue
 Clackamas County Search and Rescue
 
 ## Secretary
-**MJ Scheer - Vice President**<br>
+**MJ Scheer**<br>
 Pacific Northwest Search and Rescue
 
 ## Treasurer
