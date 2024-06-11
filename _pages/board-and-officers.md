@@ -6,13 +6,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/page-sar-1.jpg
-  caption:
-excerpt:
-intro: 
-  - excerpt:
+  caption: null
+excerpt: null
+intro:
+  - ? excerpt
 ---
-
-## 2023 Officers
+## Officers
 
 **Scott Hussey - President**<br>
 Portland Mountain Rescue
@@ -21,12 +20,15 @@ Portland Mountain Rescue
 Clackamas County Search and Rescue
 
 ## Secretary
+
 **MJ Scheer**<br>
 Pacific Northwest Search and Rescue
 
 ## Treasurer
+
 **Phil Brunson**<br>
 Mountain Wave SAR
 
 ## Fundraising/Development
+
 TBD
