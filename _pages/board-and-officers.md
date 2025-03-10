@@ -13,15 +13,14 @@ intro:
 ---
 ## Officers
 
-**Scott Hussey - President**<br>
-Portland Mountain Rescue
-
-**Josh Townsley - Vice President**<br>
+**Josh Townsley - President**<br>
 Clackamas County Search and Rescue
 
+**Scott Hussey - Vice President**<br>
+Portland Mountain Rescue
 ## Secretary
 
-**MJ Scheer**<br>
+**Scott Hillson**<br>
 Pacific Northwest Search and Rescue
 
 ## Treasurer
